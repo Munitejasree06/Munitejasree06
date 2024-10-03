@@ -4,9 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munitejasree06&label=Profile%20views&color=0e75b6&style=flat" alt="munitejasree06" /> </p>
 
 - 🔭 I'm currently learning the **MERN stack**
+ 
 - 🌱 Currently focusing on **Data Science and Java Full Stack**
+ 
 - 💡 Interested in **Full stack development and DevOps**
+ 
 - ❤️ Enthusiastic about learning **cutting-edge technologies**
+ 
 - 🤝 Actively seeking to collaborate on **exciting and challenging projects**
 
 <h3 align="left">Connect with me:</h3>
