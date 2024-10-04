@@ -2,11 +2,9 @@
 <h3 align="center">B.Tech Student specializing in Information Technology🎓</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munitejasree06&label=Profile%20views&color=0e75b6&style=flat" alt="munitejasree06" /> </p>
-
 ## About Me 🌟
 - 🔭 I'm currently learning the **MERN stack** 
 - 🌱 Currently focusing on **Data Science and Java Full Stack**
-  
 - 💡 Interested in **Full stack development and DevOps**
 - ❤️ Enthusiastic about learning **cutting-edge technologies**
 - 🤝 Actively seeking to collaborate on **exciting and challenging projects**
