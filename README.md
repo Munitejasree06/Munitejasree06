@@ -6,6 +6,7 @@
 ## About Me 🌟
 - 🔭 I'm currently learning the **MERN stack** 
 - 🌱 Currently focusing on **Data Science and Java Full Stack**
+  
 - 💡 Interested in **Full stack development and DevOps**
 - ❤️ Enthusiastic about learning **cutting-edge technologies**
 - 🤝 Actively seeking to collaborate on **exciting and challenging projects**
@@ -56,7 +57,6 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/> </a> 
 </p>
 
-
 ### Statistics 🌟
 <br/>
   <h2 align="center">Current Stats⚡</h2>
@@ -71,5 +71,4 @@
 <p align="center"> 
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munitejasree06&layout=compact&theme=react" alt="Top Languages" />
 </p>
-![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=Munitejasree06&repo=github-visitors-badge&countColor=%237B1E7A)
 <hr/>
