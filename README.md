@@ -2,6 +2,7 @@
 <h3 align="center">B.Tech Student specializing in Information Technology🎓</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munitejasree06&label=Profile%20views&color=0e75b6&style=flat" alt="munitejasree06" /> </p>
+
 ## About Me 🌟
 - 🔭 I'm currently learning the **MERN stack** 
 - 🌱 Currently focusing on **Data Science and Java Full Stack**
@@ -56,17 +57,18 @@
 </p>
 
 ### Statistics 🌟
-<br/>
+
   <h2 align="center">Current Stats⚡</h2>
-<br>
+<p align="center"> 
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
+</p>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Munitejasree06&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Munitejasree06&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
+
   <br/>
 <!--[![GitHub followers](https://img.shields.io/github/followers/Munitejasree06.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Munitejasree06?tab=followers)-->
 
-<p align="center"> 
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munitejasree06&layout=compact&theme=react" alt="Top Languages" />
-</p>
+
 <hr/>
