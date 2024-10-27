@@ -60,7 +60,7 @@
 
   <h2 align="center">Current Stats⚡</h2>
 <p align="center"> 
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munitejasree06&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
 </p>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Munitejasree06&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
